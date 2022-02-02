@@ -28,3 +28,8 @@ function removeLastCat() {
 function removeFirstCat() {
     return cats.slice(1);
 }
+
+
+
+
+
